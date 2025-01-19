@@ -1,0 +1,10 @@
+yt-dlp
+SpeechRecognition
+gTTS
+streamlit
+googletrans==4.0.0-rc1
+sumy
+fpdf
+PyPDF2
+python-docx
+pandas
