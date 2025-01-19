@@ -756,5 +756,4 @@ elif page == "Blog Analytics":
     st.write(f"Total Blogs: {len(df)}")
     st.write(f"Total Views: {df['Views'].sum()}")
     st.write(f"Total Likes: {df['Likes'].sum()}")
->>>>>>> 97bd95731c3d1e7eb33494b8e0a76065f8f40d61
     st.write(f"Total Comments: {df['Comments'].sum()}")
