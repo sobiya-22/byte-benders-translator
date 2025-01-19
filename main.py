@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os
 import yt_dlp
 import speech_recognition as sr
